@@ -41,3 +41,4 @@ type Script
 react swiper
 react multi carousel
 react icons
+AOS animate library
