@@ -1,7 +1,7 @@
 import React from 'react'
 
 type Props = {
-    heading : String
+    heading : string;
 }
 
 function SectionHeader({heading}:Props) {

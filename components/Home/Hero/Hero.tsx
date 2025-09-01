@@ -21,7 +21,7 @@ function Hero() {
             <div className="flex items-center justify-center flex-col w-full h-full">
                 <div  data-aos="fade-up" >
                     <h1 className="text-[25px] mb-4 md:mb-0 text-center md:text-[35px] lg:text-[45px]
-                    tracking-[0.7rem] text-white font-bold uppercase">Let's Enjoy The Nature</h1>
+                    tracking-[0.7rem] text-white font-bold uppercase">Lets Enjoy The Nature</h1>
                     <p className="md:text-base text-center text-lg text-white font-normal [word-spacing:5px]">Get The Best Prices on 2,000,000+ Properties,Worldwide</p>
                 </div>
                 {/* searchBox */}
