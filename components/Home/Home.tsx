@@ -5,6 +5,7 @@ import Hotel from './Hotel/Hotel'
 import WhyChoose from './WhyChooseUs/WhyChoose'
 import Review from './Reviws/Review'
 import News from './News/News'
+import NewsLetter from './NewsLetter.tsx/NewsLetter'
 
 function Home() {
   return (
@@ -15,6 +16,7 @@ function Home() {
         <WhyChoose/>
         <Review/>
         <News/>
+        <NewsLetter/>
     </div>
   )
 }
