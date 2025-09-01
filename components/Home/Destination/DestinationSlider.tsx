@@ -29,7 +29,7 @@ function DestinationSlider() {
       responsive={responsive}
       infinite={true}
       autoPlay={true}
-      autoPlaySpeed={5000}
+      autoPlaySpeed={2000}
       keyBoardControl={true}
     >
       {destinationData.map((data) => {
@@ -45,6 +45,8 @@ function DestinationSlider() {
               className="h-full w-full object-cover rounded-lg"
               ></Image>
             </div>
+            <h1 className="text-lg font-semibold mt-4">{data.country}</h1>
+            <p className="text-sm text-gray-600">{data.travelers} Travelers</p>
           </div>
         );
       })}
