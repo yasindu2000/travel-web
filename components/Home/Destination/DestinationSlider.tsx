@@ -40,7 +40,7 @@ function DestinationSlider() {
               <Image 
               src={data.image} 
               alt={data.country}
-              width = {500}
+              width ={500}
               height={500}
               className="h-full w-full object-cover rounded-lg"
               ></Image>

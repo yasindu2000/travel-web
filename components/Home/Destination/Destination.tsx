@@ -8,7 +8,7 @@ function Destination() {
         <SectionHeader heading="Exploring Popular Destination"/>
 
         {/* section content  */}
-      <div className="mt-14 w-[80%] mx-auto">
+      <div className="mt-14 w-[80%] mx-auto ">
         <DestinationSlider/>
       </div>
 
