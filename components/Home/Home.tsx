@@ -9,7 +9,7 @@ import NewsLetter from './NewsLetter.tsx/NewsLetter'
 
 function Home() {
   return (
-    <div className='overflow-hidden h-[10000px]'>
+    <div className='overflow-hidden '>
         <Hero/>
         <Destination/>
         <Hotel/>
